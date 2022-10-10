@@ -1,0 +1,18 @@
+Written Report (15 points)
+
+
+Summarizes the analysis (5 points)
+I am performing Analysis on 2 input Datasets - School Data and Students Data. I am finding the District wise performance and School wise performance of the students in the given datasets.
+The primary key metric, that i have based my conclusion on, is Percentage overall Passing Rate . To facilitate a reasonable comparison among the multiple school types and varied budgetary statistics, I summarized the raw input data into Schoolwise performance of students as shown below:
+. Schoolwise summary on key metrics
+. Top Performing Schools (By % Overall Passing)
+. Bottom Performing Schools (By % Overall Passing)
+. Scores by School Spending
+. Scores by School Size
+. Scores by School Type
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+1. I conclude that CHARTER Schools are top performing schools compared to the DISTRICT Schools based on the key metric - " Percentage Overall Passing " .
+
+2. The Larger the size of the school, the worse is the overall passing Percentage rate. Spending more on per student doesn't get the school a better performance in overall Passing Percentage rate either, immaterial of the number of the students in the school.
